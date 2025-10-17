@@ -29,18 +29,7 @@ cd archAIve
 
 ### 3. Install Dependencies
 
-This project requires a few Python libraries. You can install them all by creating a `requirements.txt` file.
-
-Create a file named `requirements.txt` in the root of the project directory and add the following lines:
-
-```text
-requests
-feedparser
-transformers
-torch
-```
-
-Now, install these packages by running the following command in your terminal:
+Install dependencies by running the following command in your terminal:
 
 ```bash
 pip install -r requirements.txt
